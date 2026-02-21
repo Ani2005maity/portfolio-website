@@ -3,7 +3,7 @@
 Professional responsive portfolio website built using HTML5 & CSS3.
 
 ## Live Demo
-(Will add after enabling GitHub Pages)
+https://ani2005maity.github.io/portfolio-website/
 
 ## Tech Stack
 - HTML5
